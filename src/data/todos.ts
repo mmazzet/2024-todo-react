@@ -9,11 +9,11 @@ export const dummyData: Todo[] = [
   {
     id: 2,
     title: 'Learn TypeScript 🚀',
-    completed: false
+    completed: false,
   },
   {
     id: 3,
     title: 'Learn GraphQL 🎉',
-    completed: false
+    completed: true,
   },
 ];
