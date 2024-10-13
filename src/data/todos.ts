@@ -14,6 +14,6 @@ export const dummyData: Todo[] = [
   {
     id: 3,
     title: 'Learn GraphQL 🎉',
-    completed: true,
+    completed: false,
   },
 ];
